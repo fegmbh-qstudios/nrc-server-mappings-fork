@@ -1,1 +1,33 @@
-
+{
+  "server-address": [
+    "deepslatesmp.de.de",
+  ],
+  "pretty-name": "DeepslateSMP",
+  "categorys": [
+    "SURVIVAL",
+    "FRIENDLY",
+    "CRYSTAL",
+    "BUILD",
+    "TECHNICAL",
+    "VANILLA",
+    "MODDED"
+  ],
+  "gamemodes": {
+    "friendly": {
+      "name": "Friendly SMP (nett sein)",
+      "versions": "*>1.7"
+    },
+    "hard": {
+      "name": "Hard SMP",
+      "versions": "*>1.7"
+    }
+  },
+  "socials": {
+    "website": "https://deepslatesmp.de/",
+    "discord": "https://discord.gg/E8V4Y4QkKX"
+  },
+  "assets": {
+    "icon": "https://deepslatesmp.de/icon.png",
+    /*"background": "./bg.png"*/
+  }
+}
